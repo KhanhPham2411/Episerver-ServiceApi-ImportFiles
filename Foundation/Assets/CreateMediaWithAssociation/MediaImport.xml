@@ -10,6 +10,11 @@
       <BlobContent>
         <FileInArchive>Entry.jpg</FileInArchive>
       </BlobContent>
+      <CatalogEntries>
+        <Association>
+          <Code>P-21320040</Code>
+        </Association>
+      </CatalogEntries>
     </Media>
   </MediaGroup>
 </MediaImport>
