@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MediaImport xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MediaType name="ImageMediaData">
+    <ContentType>Foundation.Features.Media.ImageMediaData, Foundation</ContentType>
+  </MediaType>
+  <MediaGroup mediaTypeName="ImageMediaData">
+    <Media delete="True">
+      <IntegrationId>TEST_IMAGE3</IntegrationId>
+      <Name />
+      <BlobContent>
+        <None />
+      </BlobContent>
+    </Media>
+  </MediaGroup>
+</MediaImport>
